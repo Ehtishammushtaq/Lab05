@@ -1,0 +1,47 @@
+.main-box{
+	display: block;
+    margin: 8px;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 450px;
+    justify-content: center;
+    align-content: center;
+	width: 700px;
+	height: 900px;
+	box-shadow: 3px 3px 3px 3px rgb(0 0 0 / 50%);
+	border-radius: 3px;
+	background-color: white;
+	
+}
+body{
+background-color: #0DF4;
+}
+p, a{
+	margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px
+}
+
+#image
+{
+	margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+	box-shadow: 3px 3px 3px 3px rgb(0 0 0 / 50%);
+	border-radius: 2px;
+	background-color: white;
+}
+#caption
+{
+	margin-left: 100px;
+}
+.YouTube
+{
+	margin-top: 50px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 135px
+}

@@ -1,0 +1,88 @@
+#input-box{
+	display: block;
+    margin: 8px;
+    margin-top: 30px;
+    margin-right: 280px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    justify-content: center;
+    align-content: center;
+    width: 450px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 50%);
+	border-radius: 4px;
+	background-color: white;
+
+}
+#test-box{
+	background: #ffffff;
+    padding: 10px;
+    border-radius: 2px;
+    display: block;
+    margin: 1rem;
+    box-shadow: 0px 1px 1px 1px rgb(0 0 0 / 50%);
+	border-style: solid;
+	border-width: 0px;
+}
+
+#green_input
+{
+    display: block;
+    margin-block-start: -2.4em;
+    margin-block-end: 1em;
+    margin-inline-start: 100px;
+    margin-inline-end: -100px;
+}
+#blue_input
+{
+    display: block;
+    margin-block-start: -2.4em;
+    margin-block-end: 1em;
+    margin-inline-start: 200px;
+    margin-inline-end: -100px;
+}
+#width_input
+{
+    display: block;
+    margin-block-start: -2.7em;
+    margin-block-end: 1em;
+    margin-inline-start: 372px;
+    margin-inline-end: -100px;
+}
+#width_inputx
+{
+	display: block;
+    margin-block-start: -2.2em;
+    margin-block-end: 1em;
+    margin-inline-start: 296px;
+    margin-inline-end: 0px;
+}
+
+
+#green_inputbg{
+	display: block;
+    margin-block-start: -2.5em;
+    margin-block-end: 1em;
+    margin-inline-start: 100px;
+    margin-inline-end: -100px;
+	
+}
+#blue_inputbg{
+	display: block;
+    margin-block-start: -2.4em;
+    margin-block-end: 1em;
+    margin-inline-start: 200px;
+    margin-inline-end: -100px;
+	
+}
+input{
+	 box-shadow: 2px 2px;
+	 border-radius: 4px;
+}
+#submit-section, button
+{
+	margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
